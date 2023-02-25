@@ -1,6 +1,7 @@
 # CS4641Project
 [Proposal](https://github.gatech.edu/Inarkis3/CS4641Project/blob/main/Proposal%20Document%20(2).pdf)
 
+Project Proposal Video Link: https://youtu.be/XqLK6sKUsI4
 
 Stock price prediction uses data analysis and statistical models to predict future stock prices. Stock market forecasting assists traders and investors in making more educated choices on the purchase, sale, or holding of stocks. We will use the following dataset from Yahoo Finance with the following link: https://finance.yahoo.com. This website provides historical and real-time financial data for stocks, bonds, ETFs, and other financial instruments.
 
